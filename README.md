@@ -2,45 +2,45 @@
 
 Welcome to MERN-SparkleNote, a user-friendly note-taking website designed to streamline your note-taking experience. With a host of features including note creation, editing, deletion, note completion tracking, and categorization options, MERN-SparkleNote is your go-to platform for organizing your thoughts and tasks effortlessly.
 Features:
-Note Creation, Editing, and Deletion:
+•Note Creation, Editing, and Deletion:
 Easily create, edit, and delete notes to keep track of your ideas, tasks, and reminders.
 
-Task Completion Tracking:
+•Task Completion Tracking:
 Track your task completion progress within your notes, helping you stay organized and productive.
 
-Categorization Options:
+•Categorization Options:
 Categorize your notes for better organization and quick access to relevant information.
 
-Visually Appealing Design:
+•Visually Appealing Design:
 Enjoy a visually appealing and intuitive design that enhances your note-taking experience.
 
-Seamless Navigation:
+•Seamless Navigation:
 Navigate through the website seamlessly, ensuring a smooth and hassle-free user experience.
 
-Email Verification:
+•Email Verification:
 Ensure the security of your account with email verification, providing an additional layer of protection for your data.
 
 
 Get Started:
 To get started with MERN-SparkleNote, follow these simple steps:
 
-Clone the Repository:
+1) Clone the Repository:
 Clone the MERN-SparkleNote repository to your local machine using the following command:
 
 git clone [https://github.com/your-username/mern-sparkle-note.git](https://github.com/mohammedmuneesh1/MERN-SparkleNote.git)
 
 
-Navigate to the Project Directory:
+2) Navigate to the Project Directory:
 Open the MERN-SparkleNote Folder in VsCode and open two terminal for running frontend and backend 
 use cd command for setting the terminal path 
 example: cd client  ,  cd Server
 
-Install Dependencies:
+3) Install Dependencies:
 Install the project dependencies by running the following command:
 
-npm install
+npm install on both terminal
 
-Set Up Environment Variables:
+4) Set Up Environment Variables:
 
 Create a .env file inside both folder 
 
@@ -59,9 +59,9 @@ NODEMAILER_PASS = your google account pass
 APP_URL = give the url of react app  example http:/localhost:3000
 
 
-Start the Development Server:
+6)Start the Development Server:
 Start the development server by running the following command:
-
+Run both terminal with following comman:
 npm start
 
 Access MERN-SparkleNote:
