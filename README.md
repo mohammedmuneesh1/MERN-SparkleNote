@@ -1,4 +1,5 @@
 #Running MERN-SparkleNote: A Step-by-Step Guide
+
 Welcome to MERN-SparkleNote, a user-friendly note-taking website designed to streamline your note-taking experience. With a host of features including note creation, editing, deletion, note completion tracking, and categorization options, MERN-SparkleNote is your go-to platform for organizing your thoughts and tasks effortlessly.
 Features:
 Note Creation, Editing, and Deletion:
